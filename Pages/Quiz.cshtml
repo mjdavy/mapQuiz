@@ -139,7 +139,7 @@ function initialize()
         {
           answerBG = 'green';
           $('#question')
-          .text("Correct! That is " + quizState)
+          .text("Correct! That is " + stateNames[quizState])
           .stop()
           .css('backgroundColor', answerBG)
           .animate({backgroundColor: 'white'}, 1000);

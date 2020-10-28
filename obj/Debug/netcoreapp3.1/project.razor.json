@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\mardavy\\source\\repos\\MapQuiz\\mapQuiz\\mapQuiz.csproj",
+  "FilePath": "c:\\Users\\mjdav\\source\\repos\\mjdavy\\mapQuiz\\mapQuiz.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -14387,48 +14387,48 @@
         }
       }
     ],
-    "CSharpLanguageVersion": 900
+    "CSharpLanguageVersion": 800
   },
   "RootNamespace": "mapQuiz",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\mardavy\\source\\repos\\MapQuiz\\mapQuiz\\Pages\\Shared\\_Layout.cshtml",
-      "TargetPath": "Pages\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\mardavy\\source\\repos\\MapQuiz\\mapQuiz\\Pages\\Index.cshtml",
-      "TargetPath": "Pages\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\mardavy\\source\\repos\\MapQuiz\\mapQuiz\\Pages\\Privacy.cshtml",
+      "FilePath": "c:\\Users\\mjdav\\source\\repos\\mjdavy\\mapQuiz\\Pages\\Privacy.cshtml",
       "TargetPath": "Pages\\Privacy.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\mardavy\\source\\repos\\MapQuiz\\mapQuiz\\Pages\\_ViewImports.cshtml",
-      "TargetPath": "Pages\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\mardavy\\source\\repos\\MapQuiz\\mapQuiz\\Pages\\Error.cshtml",
-      "TargetPath": "Pages\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\mardavy\\source\\repos\\MapQuiz\\mapQuiz\\Pages\\Quiz.cshtml",
-      "TargetPath": "Pages\\Quiz.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\mardavy\\source\\repos\\MapQuiz\\mapQuiz\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FilePath": "c:\\Users\\mjdav\\source\\repos\\mjdavy\\mapQuiz\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\mardavy\\source\\repos\\MapQuiz\\mapQuiz\\Pages\\_ViewStart.cshtml",
+      "FilePath": "c:\\Users\\mjdav\\source\\repos\\mjdavy\\mapQuiz\\Pages\\Index.cshtml",
+      "TargetPath": "Pages\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\mjdav\\source\\repos\\mjdavy\\mapQuiz\\Pages\\_ViewStart.cshtml",
       "TargetPath": "Pages\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\mjdav\\source\\repos\\mjdavy\\mapQuiz\\Pages\\_ViewImports.cshtml",
+      "TargetPath": "Pages\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\mjdav\\source\\repos\\mjdavy\\mapQuiz\\Pages\\Shared\\_Layout.cshtml",
+      "TargetPath": "Pages\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\mjdav\\source\\repos\\mjdavy\\mapQuiz\\Pages\\Quiz.cshtml",
+      "TargetPath": "Pages\\Quiz.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\mjdav\\source\\repos\\mjdavy\\mapQuiz\\Pages\\Error.cshtml",
+      "TargetPath": "Pages\\Error.cshtml",
       "FileKind": "mvc"
     }
   ],
