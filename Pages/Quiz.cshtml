@@ -120,7 +120,6 @@ function prompt()
   quizState = randomState();
   promptText = "Find " + stateNames[quizState] + ":";
   $('#question').text(promptText);
-  $('#mapquizAnswer').text('');
   $('#nextQuestion').text("Next");
   getAnswer = true;
   document.getElementById("nextQuestion").disabled = true;
@@ -139,8 +138,8 @@ function initialize()
         if (data.name == quizState)
         {
           answerBG = 'green';
-          $('#mapquizAnswer')
-          .text('Correct!')
+          $('#question')
+          .text("Correct! That is " + quizState)
           .stop()
           .css('backgroundColor', answerBG)
           .animate({backgroundColor: 'white'}, 1000);
@@ -150,7 +149,7 @@ function initialize()
         {
           var correctState = "No, that was " + stateNames[data.name];
           
-          $('#mapquizAnswer')
+          $('#question')
           .text(correctState)
           .stop()
           .css('backgroundColor', answerBG)
@@ -258,7 +257,6 @@ $(document).ready(function() {
 <div>
   <table width=930px>
       <td id=question></td>  
-      <td id=mapquizAnswer></td>
       <td id=score></td>  
   </table>
 </div>
